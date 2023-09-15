@@ -28,7 +28,13 @@ Leveraging the K3D library, the reconstructed point cloud was visualized directl
 ### Multi-pair Aggregation
 
 Finally, the project incorporated multiple view pairs for two-view stereo, culminating in the aggregation of the reconstructed point cloud in the world frame.
+![K3D-sad](https://github.com/norahty/Machine-Perception-Project-Two-View-Stereo-Algorithm-Implementation/assets/94091909/58518e8e-92ec-4c89-974e-7009758fa55f)
+![K3D-ssd](https://github.com/norahty/Machine-Perception-Project-Two-View-Stereo-Algorithm-Implementation/assets/94091909/575ab449-c3b1-4ceb-9dc3-90002b1de738)
+![K3D-zncc](https://github.com/norahty/Machine-Perception-Project-Two-View-Stereo-Algorithm-Implementation/assets/94091909/c5355476-14ca-41d6-8618-aa81441a3d88)
+
 
 ## Project Conclusion
 
 The pinnacle of this project was the successful creation of a fully reconstructed 3D point cloud of a temple. Screenshots of the reconstruction were captured, providing an interactive viewing experience. Overall, this project served as a valuable opportunity to delve deeply into machine perception and showcase proficiency in handling and interpreting complex datasets.
+![K3D-aggregation](https://github.com/norahty/Machine-Perception-Project-Two-View-Stereo-Algorithm-Implementation/assets/94091909/76f691e3-71df-4e80-ad6f-9afbeda69548)
+
